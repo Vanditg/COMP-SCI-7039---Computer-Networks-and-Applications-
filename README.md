@@ -12,7 +12,7 @@ This repository contains assignment, quizes and practical exam solutions for one
 ## Easy Navigation for Wireshark Quizzes.
 [Quiz - 1](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Introduction%20To%20Wireshark%20Lab%20Quiz.pdf)  
 [Quiz - 2](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Wireshark%20HTTP%20Lab%20Quiz.pdf)  
-[Quiz - 3](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Wireshark%20DNS%20Lab%20Quiz.pdf)  
+[Quiz - 3](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Wireshark%20DNS%20Lab_Quiz.pdf)  
 
 
 ## Easy Navigation for Useful Files.
