@@ -6,10 +6,14 @@ This repository contains assignment, quizes and practical exam solutions for one
 
 ## Easy Navigation for Workshops.
 [Workshop - 1](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%201/Solution)  
+[Workshop - 2](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%202/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%202/Solution)  
+
 
 ## Easy Navigation for Wireshark Quizzes.
 [Quiz - 1](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Introduction%20To%20Wireshark%20Lab%20Quiz.pdf)  
 [Quiz - 2](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Wireshark%20HTTP%20Lab%20Quiz.pdf)  
+[Quiz - 3](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Wireshark%20DNS%20Lab%20Quiz.pdf)  
+
 
 ## Easy Navigation for Useful Files.
 [RFC 1945 Document](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%201/RFC%201945)  
