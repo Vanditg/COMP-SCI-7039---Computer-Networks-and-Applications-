@@ -1,0 +1,22 @@
+	//==================================
+	// Computer Networks & Applications
+	// Student: Vandit Jyotindra Gajjar
+	// Student ID: a1779153
+	// Semester: 1
+	// Year: 2020
+	// Assignment: 2
+	//===================================
+
+	325	Apr 29 04:45	Apr 29 04:45	Verifying every logic - removing unnecessary spaces - Final Copy submission
+	324	Apr 29 04:41	Apr 29 04:41	Bug Fixing - Logic Error - Instead of adding ACKed number and seqNum, mistakenly I was updating them - Solved
+	323	Apr 29 04:27	Apr 29 04:27	Adding For Loop - Converting RDT 3.0 segment into integers and storing their entire sum in an integer, Now if this segment is corrupted, it will be then detected due to major difference in checksum
+	322	Apr 29 04:21	Apr 29 04:21	Bug Fixing - Mistakely included character k before #include stdio.h - Solved
+	321	Apr 29 04:18	Apr 29 04:18	Bug Fixing - Commenting Issue found - Solved
+	320	Apr 29 04:16	Apr 29 04:16	Bug Fixing - For the same logic - Trying to add another condition to check wether logic is right/wrong - We add and logic condition to see wether number of packets left are to be ACKed is more than or equal to windowSize.
+	319	Apr 29 04:11	Apr 29 04:11	Bug Fixing - We add additional and logic condition to see wether there are any more packets left to be ACKed
+	318	Apr 29 04:08	Apr 29 04:08	Updating the sendpackt ACK number - To check if the packet is corrupted or lost, the reciever will send the ACk of the expected seqNum in this case
+	317	Apr 29 04:04	Apr 29 04:04	Updating the condition from True to given condition - To check whether ACk is previous seqNum or currenr seqNum
+	316	Apr 29 03:48	Apr 29 03:48	Bug Fixing - Receiver was expecting seqNum 1, while sender was sending 0, so we changed expected seqNum to 0
+	315	Apr 29 03:45	Apr 29 03:45	Updating altbit.c - three changes -1- when timer starts messages will be send from A to B -2- When ACK arrives to A, the timer will be then stopped -3- When packet will be resend because of timeout, we then again start the timer.
+	314	Apr 28 09:46	Apr 28 09:46	Adding all the files to SVN Repo for test to check the erros
+	313	Apr 28 09:40	                Creating Directory for Assignment - 2
