@@ -17,6 +17,7 @@ This repository contains assignment, quizes and practical exam solutions for one
 [Quiz - 1](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Introduction%20To%20Wireshark%20Lab%20Quiz.pdf)  
 [Quiz - 2](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Wireshark%20HTTP%20Lab%20Quiz.pdf)  
 [Quiz - 3](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Wireshark%20DNS%20Lab_Quiz.pdf)  
+[Quiz - 4](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Wireshark%20TCP%20lab%20quiz.pdf)  
 
 
 ## Easy Navigation for Useful Files.
@@ -32,4 +33,4 @@ This repository contains assignment, quizes and practical exam solutions for one
 
 ## Oracle Commits for Assignment - 2  
 [AlternatingBit](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/OracleCommits/OracleCommitsAltBit)  
-[GBN](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/OracleCommits/OracleCommitsGBN)
+[GBN](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/OracleCommits/OracleCommitsGBN)  
