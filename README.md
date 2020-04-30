@@ -5,6 +5,8 @@ This repository contains assignment, quizes and practical exam solutions for one
 [Assignment - 1](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%201/Assignment) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%201/Solution)  
 [Assignment - 2 - AlternatingBit](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%202/Assignment) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%202/Solution/AlternatingBit)  
 [Assignment - 2 - Oracle AlternatingBit](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%202/Assignment) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%202/Solution/Oracle%20-%20AlternatingBit)  
+[Assignment - 2 - GBN](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%202/Assignment) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%202/Solution/GBN)  
+[Assignment - 2 - Oracle GBN](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%202/Assignment) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%202/Solution/Oracle%20-%20GBN)
 
 ## Easy Navigation for Workshops.
 [Workshop - 1](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%201/Solution)  
@@ -22,9 +24,12 @@ This repository contains assignment, quizes and practical exam solutions for one
 [C - Programming Hints](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/Assignment/Assignment%20-%202/Solution/Oracle%20-%20AlternatingBit/C_Programming_Hints.pdf)  
 
 ## WebSubmission TestCases and Output
-[Assignment - 1 WebSubmission Result](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/WebSubmission)  
+[Assignment - 1 WebSubmission Result](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WebSubmission/webServerWebSubmission.pdf)  
 [Assignment - 2 WebSubmission Result - Oracle AlternatingBit](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WebSubmission/oracleAltBitWebSubmission.pdf)  
 [Assignment - 2 WebSubmission Result - AlternatingBit](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WebSubmission/AltBitWebSubmission.pdf)  
+[Assignment - 2 WebSubmission Result - Oracle GBN](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WebSubmission/OracleGBNWesSubmission.pdf)  
+[Assignment - 2 WebSubmission Result - GBN](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WebSubmission/GBNWebSubmission.pdf)  
 
 ## Oracle Commits for Assignment - 2  
 [AlternatingBit](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/OracleCommits/OracleCommitsAltBit)  
+[GBN](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/OracleCommits/OracleCommitsGBN)
