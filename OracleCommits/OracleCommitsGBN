@@ -1,0 +1,26 @@
+	353	Apr 30 14:55	Apr 30 14:55	Checking for stress test case - Changing the condition in A_Input by adding the newly created dup boolean function accessed from the previous condition
+	352	Apr 30 14:37	Apr 30 14:36	Implemented a logic in which we'll check that the ACK is new or duplicate/courrpted and checking for recived ACKed that is it in our window or not
+	351	Apr 30 14:20	Apr 30 14:19	Reverting the previous changes as third test case seems to be failed - Adding and_logic and condition in A_Input
+	350	Apr 30 14:18	Apr 30 14:18	Trying to check for the stress test case by removing and condition in A_Input
+	349	Apr 30 14:14	Apr 30 14:14	Major Bug Fixed - packets_resent were not increasing before, addede in the loop so it will be updated - Solved
+	348	Apr 30 14:10	Apr 30 14:10	Bug Fixed - Initially was wrong condition - Changed to windowfisrt == windowlast and instead of stopping the timer, we'll restart again - Solved
+	347	Apr 30 13:51	Apr 30 13:50	Bug Fixed - Compilation Error - Missing ; - Solved
+	346	Apr 30 13:49	Apr 30 13:49	Updating A_timerinterrupt - Adding one more if condition - we'll stop the timer, if windowfirst != windowlast
+	345	Apr 30 13:46	Apr 30 13:46	Updating A_timerinterrupt - Adding an if condition - we'll restart the timer when i == windowfirst
+	344	Apr 30 13:42	Apr 30 13:42	Updating A_timerinterrupt - Sending the entire packet window at timeout/after timeout
+	343	Apr 30 13:18	Apr 30 13:18	Bug Fixed - Forget to initialize variable i to 0 - solved
+	342	Apr 30 13:14	Apr 30 13:13	Bug Fixed - Forget to add % Windowsize while updating windowFirst - Solved
+	341	Apr 30 13:11	Apr 30 13:11	Handling for Commulative ACK - ACKing all the packets before receiving them in A_Input
+	340	Apr 30 12:44	Apr 30 12:44	Bug Fixed - Updating the expected seqNum - Input_B function
+	339	Apr 30 06:57	Apr 30 06:56	Changing the condition in A_input - Added and logic with condition
+	338	Apr 30 06:43	Apr 30 06:43	Bug Fixed - Compilation Error - Missing Bracket - Solved
+	337	Apr 30 06:40	Apr 30 06:40	Sending the seqNum of previous/last successfully recieved packet - Most recent ACK as well
+	336	Apr 30 06:28	Apr 30 06:27	Updating send packet ACKnum to original
+	335	Apr 30 06:16	Apr 30 06:16	Bug Fixed - Updating the seqNum in most B_input
+	334	Apr 30 06:03	Apr 30 06:02	Updating the nextseqNum in A_Output to get the seqNum
+	333	Apr 30 05:51	Apr 30 05:51	Bug Fixed - Logic Error - Changed condition to windowcount > 0 which means if there will be any packets in the window, timer will start - Solved
+	332	Apr 30 05:26	Apr 30 05:26	Bug Fixed - Compilation Error - Missing ; - Solved
+	331	Apr 30 05:24	Apr 30 05:23	Updating on A_Input - If there will be any packets remaining to be ACKed by the reciever, this will stop the timer first, then check for condition and if true it will restart the timer otherwise it will be stop.
+	330	Apr 30 05:14	Apr 30 05:12	Updating on A_Output - The timer will start only when the first packet of the window is sent - Adding the condition
+	329	Apr 30 05:06					Initial Commit for GBN - Updating all the files to SVN - Change WindowSize to 6
+	328	Apr 30 05:03					Creating Directory for Assignment - 2 - GBN - Oracle
