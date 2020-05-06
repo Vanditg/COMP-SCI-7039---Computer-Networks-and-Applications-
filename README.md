@@ -9,8 +9,9 @@ This repository contains assignment, quizes and practical exam solutions for one
 [Assignment - 2 - Oracle GBN](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%202/Assignment) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%202/Solution/Oracle%20-%20GBN)
 
 ## Easy Navigation for Workshops.
-[Workshop - 1](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%201/Solution)  
-[Workshop - 2](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%202/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%202/Solution)  
+[Workshop - 1 - Network Overview and Application Layer](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%201/Solution)  
+[Workshop - 2 - Transport Layer](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%202/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%202/Solution)  
+[Workshop - 3 - Network Layer](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%203/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Workshop/Workshop%20-%203/Solution)  
 
 ## Easy Navigation for Wireshark Quizzes.
 [Quiz - 1 - Intro To Wireshark Lab](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Introduction%20To%20Wireshark%20Lab%20Quiz.pdf)  
