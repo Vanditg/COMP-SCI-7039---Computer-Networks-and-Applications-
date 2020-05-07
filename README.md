@@ -24,13 +24,16 @@ This repository contains assignment, quizes and practical exam solutions for one
 [RFC 1945 Document](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%201/RFC%201945)  
 [C - Programming Hints](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/Assignment/Assignment%20-%202/Solution/Oracle%20-%20AlternatingBit/C_Programming_Hints.pdf)  
 
-## WebSubmission TestCases and Output
+## Easy Navigation for WebSubmission TestCases and Output
 [Assignment - 1 WebSubmission Result](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WebSubmission/webServerWebSubmission.pdf)  
 [Assignment - 2 WebSubmission Result - Oracle AlternatingBit](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WebSubmission/oracleAltBitWebSubmission.pdf)  
 [Assignment - 2 WebSubmission Result - AlternatingBit](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WebSubmission/AltBitWebSubmission.pdf)  
 [Assignment - 2 WebSubmission Result - Oracle GBN](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WebSubmission/OracleGBNWesSubmission.pdf)  
 [Assignment - 2 WebSubmission Result - GBN](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WebSubmission/GBNWebSubmission.pdf)  
 
-## Oracle Commits for Assignment - 2  
+## Easy Navigation for Oracle Commits for Assignment - 2  
 [AlternatingBit](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/OracleCommits/OracleCommitsAltBit)  
 [GBN](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/OracleCommits/OracleCommitsGBN)  
+
+## Easy Navigation for Assignment - 2 Analysis Quiz  
+[Analysis Quiz](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%202/Analysis_Quiz)  
