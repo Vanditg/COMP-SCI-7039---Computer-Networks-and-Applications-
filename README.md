@@ -19,6 +19,7 @@ This repository contains assignment, quizes and practical exam solutions for one
 [Quiz - 3 - Wireshark DNS Lab](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Wireshark%20DNS%20Lab_Quiz.pdf)  
 [Quiz - 4 - Wireshark TCP Lab](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Wireshark%20TCP%20lab%20quiz.pdf)  
 [Quiz - 5 - Wireshark NAT Lab](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Wireshark%20NAT%20lab%20quiz.pdf)  
+[Quiz - 6 - Wireshark ICMP Lab](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/WireShark%20Quiz/Wireshark%20ICMP%20lab%20quiz.pdf)  
 
 ## Easy Navigation for Useful Files.
 [RFC 1945 Document](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/tree/master/Assignment/Assignment%20-%201/RFC%201945)  
