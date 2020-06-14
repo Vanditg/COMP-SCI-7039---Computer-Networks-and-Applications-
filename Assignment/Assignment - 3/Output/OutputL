@@ -1,0 +1,62 @@
+#START
+
+t=0 distance from X to Y via Y is 2
+t=0 distance from Y to X via X is 2
+t=0 distance from Y to Z via Z is 1
+t=0 distance from Z to Y via Y is 1
+t=0 distance from X to Z via Z is 7
+t=0 distance from Z to X via X is 7
+
+t=1 distance from X to Z via Y is 3
+t=1 distance from X to Y via Z is 8
+
+t=1 distance from Y to Z via X is 9
+t=1 distance from Y to X via Z is 8
+
+t=1 distance from Z to Y via X is 9
+t=1 distance from Z to X via Y is 3
+
+
+t=2 distance from Y to Z via X is 5
+t=2 distance from Y to X via Z is 4
+
+
+#INITIAL
+
+router X: Y is 2 routing through Y
+router X: Z is 3 routing through Y
+
+router Y: X is 2 routing through X
+router Y: Z is 1 routing through Z
+
+router Z: Y is 1 routing through Y
+router Z: X is 3 routing through Y
+
+#UPDATE
+
+t=0 distance from X to Y via Y is 1
+t=0 distance from Y to X via X is 1
+
+t=1 distance from X to Z via Y is 2
+
+t=1 distance from Y to Z via X is 4
+
+t=1 distance from Z to Y via X is 8
+t=1 distance from Z to X via Y is 2
+
+
+t=2 distance from Y to Z via X is 3
+t=2 distance from Y to X via Z is 3
+
+
+#FINAL
+
+router X: Y is 1 routing through Y
+router X: Z is 2 routing through Y
+
+router Y: X is 1 routing through X
+router Y: Z is 1 routing through Z
+
+router Z: Y is 1 routing through Y
+router Z: X is 2 routing through Y
+
