@@ -1,0 +1,92 @@
+#START
+
+t=0 distance from A to B via B is 3
+t=0 distance from A to C via C is 23
+t=0 distance from B to A via A is 3
+t=0 distance from B to C via C is 2
+t=0 distance from C to A via A is 23
+t=0 distance from C to B via B is 2
+t=0 distance from C to D via D is 5
+t=0 distance from D to C via C is 5
+
+t=1 distance from A to C via B is 5
+t=1 distance from A to B via C is 25
+t=1 distance from A to D via C is 28
+t=1 distance from B to C via A is 26
+t=1 distance from B to A via C is 25
+t=1 distance from B to D via C is 7
+t=1 distance from C to B via A is 26
+t=1 distance from C to A via B is 5
+t=1 distance from D to A via C is 28
+t=1 distance from D to B via C is 7
+
+t=2 distance from A to D via B is 10
+t=2 distance from B to C via A is INF
+t=2 distance from B to D via A is 31
+t=2 distance from B to A via C is INF
+t=2 distance from C to D via A is INF
+t=2 distance from C to D via B is INF
+t=2 distance from C to A via D is INF
+t=2 distance from C to B via D is INF
+t=2 distance from D to A via C is 10
+
+t=3 distance from B to D via A is INF
+t=3 distance from C to D via A is 33
+t=3 distance from C to A via D is INF
+
+
+#INITIAL
+
+router A: B is 3 routing through B
+router A: C is 5 routing through B
+router A: D is 10 routing through B
+
+router B: A is 3 routing through A
+router B: C is 2 routing through C
+router B: D is 7 routing through C
+
+router C: A is 5 routing through B
+router C: B is 2 routing through B
+router C: D is 5 routing through D
+
+router D: A is 10 routing through C
+router D: B is 7 routing through C
+router D: C is 5 routing through C
+
+
+#UPDATE
+
+t=0 distance from A to B via B is 5
+t=0 distance from B to A via A is 5
+
+t=1 distance from A to C via B is 7
+t=1 distance from A to D via B is 12
+t=1 distance from B to C via A is INF
+t=1 distance from B to D via A is INF
+
+t=2 distance from B to C via A is INF
+t=2 distance from B to D via A is INF
+t=2 distance from C to A via B is 7
+
+t=3 distance from B to A via C is INF
+t=3 distance from D to A via C is 12
+
+t=4 distance from C to A via D is INF
+
+#FINAL
+
+router A: B is 5 routing through B
+router A: C is 7 routing through B
+router A: D is 12 routing through B
+
+router B: A is 5 routing through A
+router B: C is 2 routing through C
+router B: D is 7 routing through C
+
+router C: A is 7 routing through B
+router C: B is 2 routing through B
+router C: D is 5 routing through D
+
+router D: A is 12 routing through C
+router D: B is 7 routing through C
+router D: C is 5 routing through C
