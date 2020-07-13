@@ -55,3 +55,6 @@ This repository contains assignment, quizes and practical exam solutions for one
 
 ## Easy Navigation for Assignment - 3 LogBook Entries
 [LogBook - Routing](https://github.com/Vanditg/COMP-SCI-7039---Computer-Networks-and-Applications-/blob/master/LogBook/Routing_Log_Book.pdf)  
+
+## Lecture Slides and Videos  
+Please send a request [Here](https://shorturl.at/adlmE)  
